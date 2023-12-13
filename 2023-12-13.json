@@ -1,0 +1,26 @@
+{
+  "name": "Glen Stewart",
+  "age": 23,
+  "address": {
+    "street": "Rego View",
+    "city": "Okegenec",
+    "state": "ME",
+    "zip": "20538"
+  },
+  "contact": {
+    "phone": "(208) 668-4024",
+    "servicePhone": "800135975"
+  },
+  "birthday": "1981-05-23T22:41:38.173Z",
+  "ip": "186.151.112.217",
+  "foo": "bar",
+  "profile": {
+    "about": "En me kumkozo nesos atawujsu mi azuiv zos faj apoewu za daku izecejek fufa woule afogarem. Le bad vicvij dojwo gijdi wi ficvi anegoc fobe ariluzzow odbe wep. Ereenpi wialokig aho ji corhew ve ekiebupis juve jiglap el loliva vufijo lasjo imare ga.",
+    "bio": "Vipus igabood rav ew rapuplu dum pu wozagud iwnaasi sofajha visuro uk zaeme azel. Dufugfip lo sewrozig ejo uz lihav gosipse gokruper cer bo hekobiz do va ici hulhaltuf ac. Nijosonus duip popmavmo puj sondik hutawkeg as zu otusija uli sacdi fo vuno notni."
+  },
+  "apiKey": "3834a275a485cce4d08f99de077436fef79aa0248b1add0009591be129b06363",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
