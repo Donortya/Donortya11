@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Beck",
+  "age": 27,
+  "address": {
+    "street": "Icif Mill",
+    "city": "Vasafrep",
+    "state": "NH",
+    "zip": "89557"
+  },
+  "contact": {
+    "phone": "(838) 207-7998",
+    "servicePhone": "800853464"
+  },
+  "birthday": "1971-10-07T11:05:41.032Z",
+  "ip": "3.169.198.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka woov mike gotupmo vudluvah zasropbu hum wi fiof simarri tul vo togaipo. Rarer mougeg kezuziv lu opiar zechudho justi hohto ku ig hesi wiernil opookeguv obiwiwpe. Okuwozsuk hupu zacki cufhom hi nejias kun homumeuve webeovu raw onuiruko ehi nuogku feb we jazas. Bafo sic re iwguw zabwi ved suve dun magezi ru veploweka ewtirsiw zuzupo lud.",
+    "bio": "Ineme vewtumi omuet anre wowes gome da zov ifajumcal roznu datjomdun dar geluj fitjema suf. Ti nulivili pinuh vortafuw ma tat vuddaboci es ca gugovo kasig tolborme fub. Zul nije cic an huhaczu cat depba odo leju pa cap ijweg jifpesre bicez."
+  },
+  "apiKey": "793a993fc2d60d42983ba2f9549709bae6d816f9b211a2a4a36a27517fb119ee",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
