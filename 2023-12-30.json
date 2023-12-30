@@ -1,0 +1,26 @@
+{
+  "name": "Glen Reynolds",
+  "age": 20,
+  "address": {
+    "street": "Veir River",
+    "city": "Asagosov",
+    "state": "NY",
+    "zip": "37593"
+  },
+  "contact": {
+    "phone": "(710) 571-5930",
+    "servicePhone": "800777267"
+  },
+  "birthday": "1964-06-27T14:13:12.873Z",
+  "ip": "15.10.252.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Zicjuof jegiwbo teagude zerizmas laj iksupgu femnu onebihho venu ce niko egmog igizopus bikurwic dibecwi pafkud tatut dinacge. Be bu kup ruum kafiim fifep kajromaj diwi getveafe vinuphi pe kotekme ocriwla witafke bow ubo luhos. Paige lo tato nahak posbeoh jupali cu ejilit vu bunvov lut cofmiad ze kadme ega. Lifdarib fufozem mef baaje guv didalvuv vudej weji kufekaesu uweut ciweszol nucilna. Da wuhage ku af ozceh jup akemo lib nob gizuj vez wokzev ureivu zahceif iv ed remaponeh sacmodgo.",
+    "bio": "Ejihuvom ne ujcijog hi mufas noc owoci virgu ubrel izosoje abipuvvu za. Ho ratad beza sazku dohgi zu apzo inuhabo obohe ig gaf jefigniz. To tedbevab ez ik bogolwi ovo gitetob hamulu mumiko maomeco suic but molvuneha."
+  },
+  "apiKey": "78df6694f784f5ee36ff8e5882852465a7e0b852532e787aae4caefb63f2e436",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
