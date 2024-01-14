@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Saunders",
+  "age": 38,
+  "address": {
+    "street": "Lassa Turnpike",
+    "city": "Webjabci",
+    "state": "AR",
+    "zip": "85171"
+  },
+  "contact": {
+    "phone": "(359) 950-9294",
+    "servicePhone": "800639872"
+  },
+  "birthday": "1970-08-05T01:25:05.817Z",
+  "ip": "99.39.151.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Eg vus azagaj edahi zun siphumvi nuj bazalep te gongap sujisku izari jedug ihcewka tuj. Woojugav tokivado sow oh vosonnol ogubnu dud cefikpo conembiv bufsego roni ivcozgul ca iba devuha ijecaoj sechodsu. Na gulcat ak ihvo gogew mu te emigikva duw uhesaso olli ni geb vecpen wueco. Lileti kadbod nowehase jepla en ke himjagmi kim nolew zisuzte lasewbof ji asuno. Kel op dozuh ru zitbudip robafe fojape ivi pivjuwmof kab ramut hew ike ce sa vepfeg.",
+    "bio": "Jocbalic lumelvan wuhnaneh ubdilmo gevrupzet om uve levtihas ib zilwaem lew leb. Vob gi fes oj satew gak ratdi ucafo regcuk eme itor de noneh eg lehfiasi azu. Owajujek fe lujele maklendor ge um ijuhag ehuk conog lokkeb mucav iha uclawhi po liw."
+  },
+  "apiKey": "567904be6fdb545f33068ffc022c125a0afe5ed1187b4faca742b68e366bc65c",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
