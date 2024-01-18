@@ -1,0 +1,26 @@
+{
+  "name": "Herman Mitchell",
+  "age": 56,
+  "address": {
+    "street": "Ugouvi Place",
+    "city": "Adapeud",
+    "state": "DC",
+    "zip": "76474"
+  },
+  "contact": {
+    "phone": "(456) 778-2176",
+    "servicePhone": "800766612"
+  },
+  "birthday": "1989-07-07T21:57:13.798Z",
+  "ip": "199.71.119.17",
+  "foo": "bar",
+  "profile": {
+    "about": "So ohasi jakba vurcegana honbina zez he ud gurwap teamin bakdu ucbuj to wuri ja finjaoka re. Cifuwnec fekhof ze noksomjir feb galuw sec bupcustur gim cewenne ezila ekapih zeh. In ribiv je atmuzul lehuh na mejep ajigetur cazfi ocruhok moicimap ipto taze itenelip uwe av.",
+    "bio": "Ledetela hop riahegu fon fas sefmeb dimew uvig ta ivzap eczu hojup niafka ivudun. Et nur jusah zizid ahaji hiplob gesgah maah gebka cuur bamobra fat verjajib jiirifuh na uvupub ebarimot ifa. Sahiffef afbehvep som wuhij remig lukcina ho noghuane pepcoko rarakih dezu izetolli tidfu udlane lu jajseg."
+  },
+  "apiKey": "f6ff2e111ecad65a706ce97ede120d6d670f3044b3cb06f2a5392b02f6abd9fa",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
