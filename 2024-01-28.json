@@ -1,0 +1,26 @@
+{
+  "name": "Noah Gordon",
+  "age": 36,
+  "address": {
+    "street": "Pooba Glen",
+    "city": "Sefofer",
+    "state": "NM",
+    "zip": "85171"
+  },
+  "contact": {
+    "phone": "(614) 960-9900",
+    "servicePhone": "800985796"
+  },
+  "birthday": "2000-03-09T20:53:15.854Z",
+  "ip": "125.237.227.54",
+  "foo": "bar",
+  "profile": {
+    "about": "At deg ejfez ufu lin ti waralhes zacarfi udkeg maruip ucoiwval celmi jo bucam muvuf caofife. Veiwo nir he tekod ilvompe nem uf azlu jum vumit ziigomav magwu wizfi mureno ibamieta. Zuv sowusa mepnul ri bav beunbam zuwaz kofrip hugubre tifar dig izirurra le.",
+    "bio": "Upsupuh er zirdemuc rovol ho zulmi tediwotov le gogolu wiz po pobsoebu afutat cazewla ti. Sat mu wazad mezalde poag zaz mocmib izaredo rodic po osfon licen bo ri hiha. Witadlih pofef guv obikoliw apuat booni neb muja ruveh wibgepih jeluvi nipe em. Nama pefpan ped acmid zageshe ez okwedde macibu valwu pejjec hovipvoj bocpejce nu cuduba ga tumosuk vit mozko."
+  },
+  "apiKey": "37d29a208959e516166e2038d085c2bc768661d6c46ccb77fbab49459b99623d",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
