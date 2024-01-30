@@ -1,0 +1,26 @@
+{
+  "name": "Roger Carlson",
+  "age": 30,
+  "address": {
+    "street": "Elzum Path",
+    "city": "Gafegroh",
+    "state": "ID",
+    "zip": "29869"
+  },
+  "contact": {
+    "phone": "(234) 366-8041",
+    "servicePhone": "800696484"
+  },
+  "birthday": "1986-07-01T09:34:29.167Z",
+  "ip": "165.95.67.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuige noju jegfuvoc omotu felo vuupe midmuwir ut wamu wacud cigmihlem huiv fowisi cicus welsajan urricfiz de. Tetrahuba ritkecbu uw faodid be poesiasa juwuti ege hu sodzav acwizema gu pevepomo tetavil dum rotuna cef veripug. Pe gugacek iba homkep mec zej ta bobep fetezo va pum kuve eb avosemaz.",
+    "bio": "Ubagarse wabepom tesivike mefgo zumi gido te asugum uzrazbo tanetsef ese buupihab vofpulzen usawevar bi humuije jussugo emkek. Mimwe az lopabwo beila bid amueji vevive hebsohig galku gap le homeb guro. Tuko isozetbut jafu ol ohese ohejoil marbe ni sosij owok lom recruz jejed giphiwma azpifat riavujas. Angipu zol oto kaza etke vortohfot baso oganavco bus leisi zezsod zuma maj juc jun re maz. Hazsutgat zekojmu ra de pelur legkug od te tihoffag of kupuciti dobuc ajetuv jiofima jipin okijenpoj kurjolpij koju. Tinu higga di tih cekhectoz sosgiv jewe oza oruac zod ipoikhur everajvet. Badonkul ozbuw utlu kup sujo holif avhu umzibafo fah nuz ighudet vaofu ras piduume."
+  },
+  "apiKey": "c21ab49876de20c996ed1799807bb9ad289d5d3463e4e84228c1a57e4f946d5a",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
