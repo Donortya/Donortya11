@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Berry",
+  "age": 25,
+  "address": {
+    "street": "Laul Path",
+    "city": "Pupdukol",
+    "state": "IA",
+    "zip": "57195"
+  },
+  "contact": {
+    "phone": "(457) 523-1020",
+    "servicePhone": "800426996"
+  },
+  "birthday": "1965-06-21T16:42:33.709Z",
+  "ip": "58.181.136.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohi arufodeh eggec ag ofa sev erowe gutut cohogdo buhot ulovajul hepali. Wikwe vahguus pidkunok tuamure sebaha ri bitjiv imiaz ded bene zodningi hufta deguhuhi pe lakukod gedawusor. Gi illoza ogmoz ravohlol adut cedozte ihsaliti ekfefuh nulfuc fe mi usi. Kunor go hocgatlo gojocbol ahakup ewudi dacer joreej evo habmiro ofho ufmuzur. Wuz tovah toewva or efbolbo wovili zic wiuho fuviw ze tunepefit wud teli iltasu. Semzo locce miredsu vajnace wetde tinog fifuz pi aghonu rip ahe suhdersic juphi dewwolmal. Id zate zijsuntel fu pozoc ibugeh kowaspe bulih seri koarri gumadu hogtekkeb laftitnup rubeha.",
+    "bio": "Nelilec zefim asatac te wakfojge uwiivvu medurezil ziciki ufubiza bof vi tov en ev dufzok harehco pe. Er rozotuwe idpi ri hajbites si vehnav rochize tubina cifki ajgep pucbomu. Rekevfi ufivoc puvcofa femuz ehuawabof liocozah latga jofzuv viwbu jolu um ga. Wi dijki laupdu meomewo ugu kedi ud erewigug zo zol tig fohiv sodale jiugu sajfid zo mobo."
+  },
+  "apiKey": "2c1c3063a56c4d622f1215b7754be5d0b3c744424ac178bbeb3e0a5a8929596f",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
