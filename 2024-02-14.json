@@ -1,0 +1,26 @@
+{
+  "name": "Helena Gonzalez",
+  "age": 18,
+  "address": {
+    "street": "Daggu Center",
+    "city": "Sivule",
+    "state": "ID",
+    "zip": "73108"
+  },
+  "contact": {
+    "phone": "(519) 605-3679",
+    "servicePhone": "800941413"
+  },
+  "birthday": "1997-09-30T12:42:56.362Z",
+  "ip": "37.134.63.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Dimgieke vel ev cacal iriluv vo lofco hel idigedi el jijbeme cub faolevik widev du jakkokhe. Omevuzuv vuz hassac omo munsiv sawilkan ki bilsortu des kesofwo udbocifa ne tatfoljep. Azelene ko pi cugdo gevus mifluvpi vi adi je we logisfa sag diz. Hurbelfav fu subunuc hum nu ceara itujiit pa ne wan ocela obheprej bacpu. Ule na se pomov pupifmeb gu nu lolkac nup zisoime igaho cotocu bokurfa paajeaje koun. Gapmekwu pomonu vu bos gatfejbag ja hi desdig ag asi sujuho muk ofhaham misapri uhe. Guopi egorudha kerewluc vovzazgi ha jevvur bez moeto ihahuwipa ri kuocikeg na ev etopi mavetew.",
+    "bio": "Fezlaf mignin dueja he tuhomde oca iwu de legero pog teduzruk fepaja zuclof uwwawah bigsog kigli cohmencuw. Nunmeot kusite muk ejje naz haguwir jimoahi izkaceb du sanpo jagnilevi akamareb ro pa hi daopko vevit zifezhe. Wovbeddep uh fatpiiw rewginij nodo ceri ho emowagla depvuczif kisadtow itmo ilekam otazuke viv."
+  },
+  "apiKey": "c87c1499a946bf56df4b9cb91c6b4f61523b8e9f9b20df4691455de44650b5d9",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
