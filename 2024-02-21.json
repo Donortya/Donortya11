@@ -1,0 +1,26 @@
+{
+  "name": "Luke Hodges",
+  "age": 62,
+  "address": {
+    "street": "Hakaw Glen",
+    "city": "Zegtamor",
+    "state": "SC",
+    "zip": "41136"
+  },
+  "contact": {
+    "phone": "(824) 916-9170",
+    "servicePhone": "800489162"
+  },
+  "birthday": "1968-09-30T09:11:25.294Z",
+  "ip": "156.239.201.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuivagiv kuet buevke ofe hurgah vir uco gopuj oh hivda gezipo sigudak. Linaf lutefnuk magcev merukufe liwu osled nazdivu noasuva tepekuj fod bu pumciat ir rup idako. Erasilubu ijbi orleip wenas fejvu jumzofim bo bopva raka uvonoprif mumbovdec vituvu cuhnahlu li. Oblot bizegbun encuccuc fujusdo asjo ape gupwic lulov vecem ihjirbe kub nijutva fuv uho.",
+    "bio": "Di gioz ag warub denziculo hemacgu fu timegu ko luraheka cet rakak rinve tuadorej apikoit. Lovon widmaew midi be tussa vetafa ivakovese ucucuh sejof pajog logen mukemil. Pos na kaerloh ji ivedi galuco vehad paw iluoz maw teaw vot buzkid."
+  },
+  "apiKey": "809632e4c7482964d88ac61b642118d9e2ebb0fea9888eca4945b40b16a29a7f",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
