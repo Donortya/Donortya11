@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Ferguson",
+  "age": 26,
+  "address": {
+    "street": "Avafa Ridge",
+    "city": "Uhoctor",
+    "state": "CA",
+    "zip": "00296"
+  },
+  "contact": {
+    "phone": "(205) 498-4394",
+    "servicePhone": "800829268"
+  },
+  "birthday": "1964-10-14T01:58:46.557Z",
+  "ip": "50.181.165.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Do sap wumaut datud uke ihizesag bohhi mur us rapamivi kewowe filedcog dujmumja raehe nupahir hi bauniwil no. Kif hifokeca nuztaza dihuwjak ke edetut vecmom holnon bobiz kifbat wez ur cave. Jalkec ho ur cu miizzad salgeiz li ubvi letvenac ge zale ugituc goopuku ga bosrobu pujag se uw. Ozojec tetu go taliat genajih kacov popap dah ud egive nuc zadrage ludunat uz.",
+    "bio": "Ke ku jeefuweb sulbeffum gavur pittar sojojnul lobepo rak isu gouha safuom rimishe doririg. Olitu vid paw suhug zovikfik erefe vuz udepa waveg isro tuke jin matvil ju. Wucsi upfu willuvon aboup hew uco jedokgak uh ek ego tuw duijo bihi."
+  },
+  "apiKey": "13023683692b862143812b6c7514ff3949f83fb8a4829bb5dab964d36b552319",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
