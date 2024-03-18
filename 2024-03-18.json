@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Ruiz",
+  "age": 24,
+  "address": {
+    "street": "Ahjur Avenue",
+    "city": "Oguzeta",
+    "state": "CO",
+    "zip": "50874"
+  },
+  "contact": {
+    "phone": "(706) 628-7240",
+    "servicePhone": "800578658"
+  },
+  "birthday": "1987-04-28T22:52:12.609Z",
+  "ip": "174.152.150.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Fok lusfo hucidic lob ta vuw gepwo jewewigo cudako pikebca odwah dak cakge. Redajimi hobsek jowjoshaf nibej idsidfab luveg eze figaweajo lulzilbe so zugca su. Tevum zezhec titkesdo ava isiven sotabow buw fagut jutidwo ip ovcud vi zi wuf zedudmuv mi ilub fokaza.",
+    "bio": "Lu omcozoj uwiriuv up nij nuk iz teso suraar tuwo le saukulut ogjaz ca se. Badgo vu ulebig bimvun abojlug galzak pufisjep pazuso armurlo ku dekju op fumo ilafelam mebhickel ga ovi. Ocuha tiz ku cehpasa poovu ve vaufu deizauh baranah ofure omu gu zu si joz eg. Suraza jidobe vehovna jid kesbac oruefu za car gimezu bugap tirwoodo mevidfe nuwifwi. Ra helarin men fikijvuj mecadpo sobibos owuvecib boj ecucobka runnefa voru rudniw izjoeg janruc lemupgam ron. Ozowe uzlujun je hecifis wuh reror bi vuwizves hole cog mahbujti buklul hehbacus oruocren gukocur baf."
+  },
+  "apiKey": "6c65486835088a5cfe32b7110cbe6bd071dfaa1b82d99be7951baf2cbd6d5ab8",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
