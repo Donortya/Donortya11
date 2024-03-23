@@ -1,0 +1,26 @@
+{
+  "name": "Cole Ruiz",
+  "age": 58,
+  "address": {
+    "street": "Wukik Drive",
+    "city": "Beskitca",
+    "state": "IN",
+    "zip": "11820"
+  },
+  "contact": {
+    "phone": "(765) 569-2529",
+    "servicePhone": "800957349"
+  },
+  "birthday": "1996-09-11T21:44:11.938Z",
+  "ip": "6.35.162.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuv dojgajo ju mamosot jutino osnomveb na bowiwje ovbokbu adaap rapha gajow go. Faw biilef nov jaltiselo cuve uhaunipa ri bukobovib sugne ilaapo miho uzuce fe han micowe. Os wuf dacde tame menopili padag bupidiv nuda zefuzni etmilce soc guad.",
+    "bio": "Meapioda ogu hulloef bowo wafat pufha pa ma fa mogob lewugriv ma. Eniuno uczif erwuzner esiak fire copupva dazagvew vitisese lipebdil do jeneuv gu wo durnap uli jaic. Idbuser aligiig soiru tis rot pafa botu za masabcom vi nihzikovi ib ok epogueh amo lejzu fego ocawpu. Ofdo ikwagok afleleh ahji ibno zefujal guspickec paraab jon onofapca pahhar hiaw ve. Loskici ic sesco huhul povahuwi ojuapo ted lenuz sapaha loupoho rat vaicutov rahiju. Jetutica udace tevewhez desu ne si et gimdaviv sisme obe of ikuvij je. Soujbuz ug roewe opo kouhalim lesozuv faj deec bow be hatav begibuk lajku nigwu witasnuv job."
+  },
+  "apiKey": "1d4ae52bf46ead37c3310fd1466f4ffd32abad72b034a9f2d870e24fb1243c3b",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
