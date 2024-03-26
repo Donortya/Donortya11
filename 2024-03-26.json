@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Sharp",
+  "age": 29,
+  "address": {
+    "street": "Kabcel Pike",
+    "city": "Filjewwa",
+    "state": "UT",
+    "zip": "03568"
+  },
+  "contact": {
+    "phone": "(986) 653-1635",
+    "servicePhone": "800863372"
+  },
+  "birthday": "1984-03-10T17:08:27.848Z",
+  "ip": "79.17.93.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Fodcamo saem ga fesgagvu vilwog ne na faag hekbir luwkedsan bozenugo faz lovev cu. Tompikac zevba tualvan vucek hamog imjutip toga jirliz git ido nehe zon kehabe. Je ju tololobo ba ripuju dinbaw puz fese caelehug baikofa moz sopaf feg idave ratter vaw.",
+    "bio": "Ujcako jid osbente nigzu ufgiw akireow kaatu nefu da foef toim efohajje dowit eherera tazul mel linjudeko defo. Ov wopjowa jidfo itu vurto ulhajfoz ja fip sutu zusivaju uwjusho von. Esili ha mokibo robi cocibov ibuvapmuv gutuca lage ukahoef ge naccilu coid avusutez fecre ufihedroh."
+  },
+  "apiKey": "dfd6fbfaa58a4aa860b81ebd6f8eeca2f16269291333178cd559074d74bb304b",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
